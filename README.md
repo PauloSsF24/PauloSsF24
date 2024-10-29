@@ -7,5 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSsF24&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img allign="center" alt="PS-Js" height="30" width="40" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img allign="center" alt="PS-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
