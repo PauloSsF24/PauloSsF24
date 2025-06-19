@@ -2,8 +2,11 @@
 
 **`Desenvolvedor Junior`**
 
-- 🔭 Procuro uma oportunidade como DEV Front-end
-- 🌱 Estou atualmente estudando desenvolvimento web
+👨‍💻 Sou formado em Ciência da Computação e estou iniciando minha jornada na área de tecnologia com foco em desenvolvimento, suporte técnico ou áreas relacionadas.
+
+Tenho perfil analítico e criativo, o que me ajuda a transformar ideias em soluções visuais e funcionais. Valorizo a experiência do usuário, gosto de aprender coisas novas e acredito que a comunicação é uma das chaves para crescer em equipe.
+
+Estou em busca da minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Se você está procurando alguém com vontade de aprender, crescer e contribuir desde o início
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSsF24&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSsF24&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
