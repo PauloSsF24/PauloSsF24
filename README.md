@@ -1,5 +1,7 @@
 ## Olá eu sou o Paulo Sérgio
 
+**`Desenvolvedor Junior`**
+
 - 🔭 Procuro uma oportunidade como DEV Front-end
 - 🌱 Estou atualmente estudando desenvolvimento web
 
