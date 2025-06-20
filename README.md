@@ -22,3 +22,7 @@ Estou em busca da minha primeira oportunidade profissional para aplicar e expand
   <img allign="center" alt="PS-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
   <img allign="center" alt="PS-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
+
+<div>
+  ![Snake animation](https://github.com/PauloSsF24/PauloSsF24/blob/output/github-contribution-grid-snake.svg)
+</div>
