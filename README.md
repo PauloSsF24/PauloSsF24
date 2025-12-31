@@ -8,8 +8,8 @@ Tenho perfil analítico e criativo, o que me ajuda a transformar ideias em solu�
 
 Estou em busca da minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Se você está procurando alguém com vontade de aprender, crescer e contribuir desde o início
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSsF24)](https://github.com/PauloSsF24/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSsF24&layout=compact)
+[![Paulo Sérgio GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSsF24)](https://github.com/PauloSsF24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSsF24)](https://github.com/PauloSsF24/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img allign="center" alt="PS-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
