@@ -8,7 +8,7 @@ Tenho perfil analítico e criativo, o que me ajuda a transformar ideias em solu�
 
 Estou em busca da minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Se você está procurando alguém com vontade de aprender, crescer e contribuir desde o início
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSsF24&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <div style="display: inline_block"><br>
