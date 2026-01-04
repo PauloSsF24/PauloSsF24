@@ -12,12 +12,6 @@ Sou formado em Ciência da Computação e estou iniciando minha jornada na área
 ![](https://nirzak-streak-stats.vercel.app/?user=PauloSsF24&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSsF24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PauloSsF24&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PauloSsF24&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
