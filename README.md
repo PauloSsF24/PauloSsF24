@@ -1,6 +1,14 @@
-# 💻 Desenvolvedor FullStack:
-Sou formado em Ciência da Computação e estou iniciando minha jornada na área de tecnologia com foco em desenvolvimento, suporte técnico ou áreas relacionadas.<br><br>Tenho perfil analítico e criativo, o que me ajuda a transformar ideias em soluções visuais e funcionais. Valorizo a experiência do usuário, gosto de aprender coisas novas e acredito que a comunicação é uma das chaves para crescer em equipe.<br><br>Estou em busca da minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Se você está procurando alguém com vontade de aprender, crescer e contribuir desde o início
+# 👋 Olá! Eu sou o Paulo Sérgio,
 
+Sou **Desenvolvedor Full Stack**, formado em **Ciência da Computação**, com foco na construção de aplicações web modernas, funcionais e bem estruturadas.
+
+Tenho perfil **analítico e criativo**, gosto de entender o problema antes de escrever código e busco sempre soluções simples, escaláveis e com boa experiência do usuário. Trabalho tanto no **front-end** quanto no **back-end**, aplicando boas práticas, organização de código e versionamento com Git.
+
+Atualmente estou em busca da **minha primeira oportunidade profissional na área de tecnologia**, onde eu possa evoluir como desenvolvedor, aprender com o time e gerar valor real através de código.
+
+📌 Aqui no meu GitHub você vai encontrar projetos práticos, estudos e aplicações completas focadas em resolver problemas reais.
+
+📫 Vamos conversar?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulossf) 
