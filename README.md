@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 Desenvolvedor FullStack:
 Sou formado em Ciência da Computação e estou iniciando minha jornada na área de tecnologia com foco em desenvolvimento, suporte técnico ou áreas relacionadas.<br><br>Tenho perfil analítico e criativo, o que me ajuda a transformar ideias em soluções visuais e funcionais. Valorizo a experiência do usuário, gosto de aprender coisas novas e acredito que a comunicação é uma das chaves para crescer em equipe.<br><br>Estou em busca da minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Se você está procurando alguém com vontade de aprender, crescer e contribuir desde o início
 
 
